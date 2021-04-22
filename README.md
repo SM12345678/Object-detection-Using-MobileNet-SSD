@@ -1,1 +1,1 @@
-# Object-detection-Using-MobileNet-SSD
+# Object-detection-TrashNet
