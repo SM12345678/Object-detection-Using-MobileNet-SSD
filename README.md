@@ -1,1 +1,2 @@
-# Object-detection-TrashNet
+NYU Fall 2020 - Machine Learning Project.
+
